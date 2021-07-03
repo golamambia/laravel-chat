@@ -1,0 +1,6 @@
+Mac: asd
+Test User S: hi
+Test User S: Hello
+Mac: HI
+Mac: Send the file - http://127.0.0.1:8000/upload/chat_attachments/625276344_149248284_pan_card.jpg
+Test User S: Send the file - http://127.0.0.1:8000/upload/chat_attachments/714569364_get_start.jpg

@@ -1,0 +1,11 @@
+Mac: asd
+Test User: hi
+Test User: Hello
+Mac: HI
+Mac: Send the file - http://127.0.0.1:8000/upload/chat_attachments/625276344_149248284_pan_card.jpg
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/714569364_get_start.jpg
+Test User: Hi
+Mac: Hello
+Test User: how r u
+Mac: Send the file - http://127.0.0.1:8000/upload/chat_attachments/128277825_149248284_pan_card.jpg
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/574202639_Salary_Calculation.xlsx

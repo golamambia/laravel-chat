@@ -1,0 +1,23 @@
+Test User: hi
+Jignesh: hello
+Jignesh: Send the file - http://127.0.0.1:8000/upload/chat_attachments/149248284_pan_card.jpg
+Jignesh: ss
+Jignesh: ss
+Jignesh: asd
+Jignesh: asd
+Jignesh: 52
+Jignesh: 52
+Jignesh: ko
+Test User: ads
+Jignesh: ss
+Test User: Send the file - http://127.0.0.1:8000/upload/chat_attachments/409344770_aadhar.jpeg
+Jignesh: ss
+Jignesh: asd
+Jignesh: ffff
+Test User: JAKLSJDF K;KASDF L;KA S;LKF AKS;LDF LJASD'F ASDJF ;JASDFJ AKJSDK JASDJ JFAKLSJDF JA FADSF;LASD LF;'L
+Jignesh: Send the file - http://127.0.0.1:8000/upload/chat_attachments/588967476_get_start.jpg
+Jignesh: Send the file - http://127.0.0.1:8000/upload/chat_attachments/140231248_get_start.jpg
+Jignesh: Send the file - http://127.0.0.1:8000/upload/chat_attachments/273025012_aadhar.jpeg
+Jignesh: Send the file - http://127.0.0.1:8000/upload/chat_attachments/580586513_pan_card.jpg
+Jignesh: asd
+Jignesh: Send the file - http://127.0.0.1:8000/upload/chat_attachments/842272951_OpTransactionHistory31-08-2020.pdf
